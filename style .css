@@ -72,8 +72,6 @@
 
     .dice-face {
         width: 75px;
-        /* height: 75px; */
-        /* height: auto; */
         display: flex;
         align-items: center;
         justify-content: center;
